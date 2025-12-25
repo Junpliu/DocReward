@@ -69,3 +69,7 @@ If you find this work helpful, please cite out paper:
       url={https://arxiv.org/abs/2510.11391}, 
 }
 ```
+
+## Acknowledgements
+
+This project is built upon [LLaMA-Factory](https://github.com/hiyouga/LLaMA-Factory), an excellent framework for efficient fine-tuning of large language models. We gratefully acknowledge their contribution to the open-source community.
