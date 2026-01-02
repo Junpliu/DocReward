@@ -5,7 +5,7 @@
 [![Paper](https://img.shields.io/badge/📄_Paper-Hugging_Face-yellow)](https://huggingface.co/papers/2510.11391)
 [![Model: DocReward-3B](https://img.shields.io/badge/🤗_Model-DocReward--3B-blue)](https://huggingface.co/jeepliu/DocReward-3B)
 [![Model: DocReward-7B](https://img.shields.io/badge/🤗_Model-DocReward--7B-blue)](https://huggingface.co/jeepliu/DocReward-7B)
-[![Datasets](https://img.shields.io/badge/🤗_Datasets-Coming_Soon-orange)]()
+[![Dataset: DocPair](https://img.shields.io/badge/🤗_Dataset-DocPair)](https://huggingface.co/datasets/jeepliu/DocPair)
 
 </div>
 
