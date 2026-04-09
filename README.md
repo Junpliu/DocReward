@@ -1,4 +1,4 @@
-# DocReward\: A Document Reward Model for Structuring and Stylizing
+# [ACL 2026] DocReward\: A Document Reward Model for Structuring and Stylizing
 
 <div align="center">
 
